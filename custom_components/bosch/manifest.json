@@ -6,7 +6,6 @@
   "dependencies": ["network", "persistent_notification"],
   "after_dependencies": ["http", "recorder"],
   "codeowners": ["@pszafer"],
-  "requirements": [],
   "version": "0.26.3",
   "zeroconf": ["_buderus._tcp.local."],
   "config_flow": true,
